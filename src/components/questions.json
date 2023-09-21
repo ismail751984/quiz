@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "statement": "You can add a row using SQL in a database with which of the following?",
+        "options": [
+            "ADD",
+            "CREATE",
+            "INSERT",
+            "MAKE"
+        ],
+        "answer": "INSERT"
+    },
+    {
+        "id": 2,
+        "statement": "The command to remove rows from a table 'CUSTOMER' is:",
+        "options": [
+            "REMOVE FROM CUSTOMER ...",
+            "DROP FROM CUSTOMER ...",
+            "DELETE FROM CUSTOMER WHERE ...",
+            "UPDATE FROM CUSTOMER ..."
+        ],
+        "answer":  "DELETE FROM CUSTOMER WHERE ..."
+    },
+    {
+        "id": 3,
+        "statement": "The wildcard in a WHERE clause is useful when?.",
+        "options": [
+            "An exact match is necessary in a SELECT statement.",
+            "An exact match is not possible in a SELECT statement.",
+            "An exact match is necessary in a CREATE statement.",
+            "An exact match is not possible in a CREATE statement."
+        ],
+        "answer": "An exact match is not possible in a SELECT statement."
+    },
+    {
+        "id": 4,
+        "statement": "________ was adopted as a national standard by ANSI in 1992.",
+        "options": [
+            "Oracle",
+            "SQL.",
+            "Microsoft Access",
+            "DBase"
+        ],
+        "answer": "SQL"
+    },
+    {
+        "id": 5,
+        "statement": "To sort the results of a query use:",
+        "options": [
+            "SORT BY.",
+            "GROUP BY.",
+            "ORDER BY.",
+            "None of the above is correct."
+        ],
+        "answer": "ORDER BY."
+    }
+ ]
